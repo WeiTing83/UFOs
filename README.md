@@ -4,14 +4,14 @@
 We create a webpage about UFO’s investigation, containing title, paragraph and one table data. Additionally, user can key in different criteria including date, city, state, country and shape to filter the data and create new table if needed.
 >
 ## Webpage:
-URL : 
+URL : https://weiting83.github.io/UFOs/
 >
 ## Results: 
-+ the webpage contains two parts: one is title and paragraph, and another is table and filter.
-#### <Fig.1 title and paragraph >
-![title]()
-#### <Fig.2 table and filter >
-![table]()
++ The webpage contains two parts: one is title and paragraph, and another is table and filter.
+#### <Fig.1 Title and Paragraph >
+![title](https://github.com/WeiTing83/UFOs/blob/main/Resource/title.png)
+#### <Fig.2 Table and Filter >
+![table](https://github.com/WeiTing83/UFOs/blob/main/Resource/table.png)
 >
 + The data is collected between 1/1/2010 to 1/13/2010.
 + The country is between United Stated (US) and Canada (CA)
